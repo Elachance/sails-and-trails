@@ -81,7 +81,7 @@ When you have an unpredictable variable in your travel party — a toddler, an i
 
 ## A note on the Oceaneer Club and Small World Nursery
 
-Last year our son was two and not yet potty trained, which meant the Oceaneer Club (Disney's incredible kids' club, ages 3 and up, requires potty training) was off limits for him. The Small World Nursery handled under-3s, and it was wonderful — but it requires some hustle that caught me slightly off guard: booking happens on the first day of the cruise at a designated open house, and you need to get there as soon as it opens. Spots are capped and fill based on how many under-3s are sailing, so timing matters.
+Last year our son was two and not yet potty trained, which meant the Oceaneer Club (Disney's incredible kids' club, ages 3 and up, requires potty training) was off limits for him. The Small World Nursery handled under-3s, and it was wonderful — but it has a logistical wrinkle worth knowing about: booking happens on the first day of the cruise at a designated open house, and you need to get there as soon as it opens. Spots are capped and fill based on how many under-3s are sailing, so timing matters.
 
 Barbara warned me ahead of time — but if you don't have a Barbara, this one can catch you off guard. Critically: this is *not* something the concierge team handles for you. The concierge hosts work hard to cover your specialty dining reservations like Palo and Enchantée, but the nursery is yours to manage. Book your most important time slots first — the ones you genuinely cannot reschedule around — and then call each morning to request additional time if you need it.
 
