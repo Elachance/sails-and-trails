@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('posts', ({ data }) =>
+  !data.draft && data.category === 'cruise' && data.cruiseLine === 'disney'
+);
+const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Disney Cruise Line"
+  description="Disney Cruise Line guides, trip reports, and concierge secrets from a family that keeps going back."
+>
+  <div class="bg-gradient-to-br from-ocean-900 to-ocean-700 text-white py-16 px-4">
+    <div class="max-w-3xl mx-auto">
+      <p class="text-ocean-200 text-sm font-medium uppercase tracking-widest mb-3">Cruise guides</p>
+      <h1 class="font-serif text-4xl md:text-5xl font-semibold mb-4">Disney Cruise Line</h1>
+      <p class="text-ocean-100 text-lg leading-relaxed max-w-2xl">
+        There's a reason we keep booking Disney. It handles multi-generational groups better than
+        anything else we've tried — and the concierge experience is something else entirely.
+        Here's everything we know.
+      </p>
+    </div>
+  </div>
+
+  <div class="max-w-5xl mx-auto px-4 py-16">
+    {sorted.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {sorted.map(post => <PostCard post={post} />)}
+      </div>
+    ) : (
+      <div class="text-center py-16 text-gray-400">
+        <div class="text-5xl mb-4">🚢</div>
+        <p class="text-lg font-medium text-gray-600 mb-2">Posts coming soon</p>
+        <p class="text-sm">We're sailing in May 2025 — trip reports and guides dropping shortly after.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

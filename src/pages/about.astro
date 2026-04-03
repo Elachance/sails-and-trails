@@ -1,0 +1,76 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+---
+
+<BaseLayout
+  title="About Us"
+  description="Meet the Sails & Trails family — a multi-generational crew of cruise lovers, hikers, and adventure seekers."
+>
+  <div class="max-w-3xl mx-auto px-4 py-16">
+    <p class="text-ocean-600 font-semibold text-sm uppercase tracking-wide mb-2">The crew</p>
+    <h1 class="font-serif text-4xl font-semibold mb-8">About Sails &amp; Trails</h1>
+
+    <div class="prose prose-lg prose-slate max-w-none prose-headings:font-serif">
+
+      <h2>Hi, I'm Bailey</h2>
+      <p>
+        By day I'm a cloud architect — which means I spend a lot of time thinking about
+        infrastructure, redundancy, and what happens when things go sideways.
+        It turns out this is surprisingly good training for traveling with young children.
+      </p>
+      <p>
+        I started this site because we kept having these incredible travel experiences and I
+        couldn't find anyone writing about them honestly — the logistics, the details, the
+        stuff that actually matters when you're wrangling a 3-year-old on a gangway.
+        So I decided to write it myself.
+      </p>
+      <p>
+        I travel with my husband, our daughter (5) and son (3), and an extended family that has
+        somehow become one of the most adventure-prone groups of people I've ever met.
+      </p>
+
+      <h2>The Extended Crew</h2>
+      <p>
+        Most of our big trips happen because of <strong>Barbara</strong> — my mother-in-law,
+        co-author of this site, and the person who books the Disney concierge suites AND
+        dehydrates her own meals for PCT segments. She contains multitudes.
+        Her husband joins us on the cruises and matches her energy completely.
+      </p>
+      <p>
+        We're also regularly joined by two brothers-in-law, one of whom adventured to Antarctica
+        with his wife before their daughter was born (she's 1 now and already has a better
+        passport stamp collection than most adults).
+      </p>
+
+      <h2>What we write about</h2>
+      <p>
+        <strong>Cruises</strong> — mostly Disney Cruise Line right now, with a long history of
+        Royal Caribbean before the kids arrived. We write about the real experience: what concierge
+        actually gets you, how to survive sea days with toddlers, what to do in port when half
+        your group needs nap time.
+      </p>
+      <p>
+        <strong>Trails</strong> — Barbara covers the serious stuff (Tour du Mont Blanc, New Zealand's
+        Great Walks, the PCT). We'll be writing about family camping and hiking as our kids' legs
+        get longer and their complaints per mile decrease.
+      </p>
+
+      <h2>The bigger goal</h2>
+      <p>
+        We'd love for this to grow into something that cruise lines and travel companies notice —
+        not because we're influencers, but because we're a real family who books real trips and
+        writes about them with real detail. If you're a cruise line reading this: hi. We'd love to talk.
+      </p>
+
+      <h2>A note on details</h2>
+      <p>
+        I am constitutionally incapable of giving vague advice. If I tell you something is worth
+        doing, I'll tell you exactly why, what it costs, how to book it, and what could go wrong.
+        You've been warned.
+      </p>
+    </div>
+  </div>
+
+  <NewsletterForm />
+</BaseLayout>

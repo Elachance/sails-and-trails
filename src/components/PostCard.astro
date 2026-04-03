@@ -1,0 +1,39 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+
+const { post } = Astro.props;
+const { title, description, pubDate, heroImage, author, category, cruiseLine } = post.data;
+
+const categoryLabel = category === 'cruise'
+  ? (cruiseLine === 'disney' ? 'Disney' : cruiseLine === 'royal-caribbean' ? 'Royal Caribbean' : 'Cruising')
+  : category === 'trail' ? 'Trails' : 'General';
+
+const categoryColor = category === 'cruise'
+  ? 'bg-ocean-100 text-ocean-700'
+  : 'bg-trail-100 text-trail-700';
+---
+
+<a href={`/blog/${post.slug}`} class="group block bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+  {heroImage ? (
+    <img src={heroImage} alt={title} class="w-full h-48 object-cover group-hover:scale-[1.02] transition-transform duration-300" />
+  ) : (
+    <div class={`w-full h-48 flex items-center justify-center text-4xl ${category === 'cruise' ? 'bg-ocean-50' : 'bg-trail-50'}`}>
+      {category === 'cruise' ? '🚢' : '🥾'}
+    </div>
+  )}
+  <div class="p-5">
+    <div class="flex items-center gap-2 mb-2">
+      <span class={`text-xs font-semibold px-2 py-0.5 rounded-full ${categoryColor}`}>{categoryLabel}</span>
+      <span class="text-xs text-gray-400">
+        {pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+      </span>
+    </div>
+    <h2 class="font-serif text-lg font-semibold leading-snug mb-2 group-hover:text-ocean-700 transition-colors">{title}</h2>
+    <p class="text-sm text-gray-500 line-clamp-2 leading-relaxed">{description}</p>
+    <div class="mt-3 text-xs text-gray-400">By {author}</div>
+  </div>
+</a>

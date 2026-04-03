@@ -1,0 +1,51 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: public/images
+public_folder: /images
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: posts
+    label: Posts
+    folder: src/content/posts
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: text }
+      - { label: Publish Date, name: pubDate, widget: datetime }
+      - label: Category
+        name: category
+        widget: select
+        options:
+          - { label: Cruise, value: cruise }
+          - { label: Trail, value: trail }
+          - { label: General, value: general }
+      - label: Cruise Line
+        name: cruiseLine
+        widget: select
+        required: false
+        hint: Only needed for cruise posts
+        options:
+          - { label: Disney Cruise Line, value: disney }
+          - { label: Royal Caribbean, value: royal-caribbean }
+          - { label: Other, value: other }
+      - label: Author
+        name: author
+        widget: select
+        default: Bailey Miller
+        options:
+          - Bailey Miller
+          - Barbara
+          - Guest
+      - { label: Hero Image, name: heroImage, widget: image, required: false }
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        hint: "e.g. concierge, packing, port-guide, kids"
+      - { label: Draft, name: draft, widget: boolean, default: false }
+      - { label: Body, name: body, widget: markdown }

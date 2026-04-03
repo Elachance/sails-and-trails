@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Cruise Guides" description="Cruise guides from a family who actually goes — Disney Cruise Line, Royal Caribbean, and beyond.">
+  <div class="max-w-5xl mx-auto px-4 py-16">
+    <p class="text-ocean-600 font-semibold text-sm uppercase tracking-wide mb-2">On the water</p>
+    <h1 class="font-serif text-4xl font-semibold mb-4">Cruise Guides</h1>
+    <p class="text-gray-500 text-lg mb-12 max-w-2xl">
+      Real trip reports and planning guides from a multi-generational family that books a lot of cabins.
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      <a href="/cruises/disney" class="group bg-ocean-50 rounded-2xl p-8 hover:bg-ocean-100 transition-colors">
+        <div class="text-5xl mb-4">🏰</div>
+        <h2 class="font-serif text-2xl font-semibold mb-2 group-hover:text-ocean-700 transition-colors">Disney Cruise Line</h2>
+        <p class="text-gray-600 leading-relaxed">
+          Our current obsession. From first-timers to concierge suite regulars —
+          everything you need to know about sailing with the Mouse.
+        </p>
+        <span class="mt-4 inline-block text-ocean-600 font-semibold text-sm group-hover:underline">Read the guides →</span>
+      </a>
+
+      <a href="/cruises/royal-caribbean" class="group bg-blue-50 rounded-2xl p-8 hover:bg-blue-100 transition-colors">
+        <div class="text-5xl mb-4">⚓</div>
+        <h2 class="font-serif text-2xl font-semibold mb-2 group-hover:text-blue-700 transition-colors">Royal Caribbean</h2>
+        <p class="text-gray-600 leading-relaxed">
+          Where we started. Years of Royal Caribbean sailings before kids — the ships,
+          the ports, the experiences worth repeating.
+        </p>
+        <span class="mt-4 inline-block text-blue-600 font-semibold text-sm group-hover:underline">Read the guides →</span>
+      </a>
+    </div>
+  </div>
+</BaseLayout>

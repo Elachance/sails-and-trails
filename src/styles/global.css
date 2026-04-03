@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  /* Ocean blues */
+  --color-ocean-50: #f0f9ff;
+  --color-ocean-100: #e0f2fe;
+  --color-ocean-200: #bae6fd;
+  --color-ocean-500: #0ea5e9;
+  --color-ocean-600: #0284c7;
+  --color-ocean-700: #0369a1;
+  --color-ocean-800: #075985;
+  --color-ocean-900: #0c4a6e;
+
+  /* Trail greens */
+  --color-trail-50: #f0fdf4;
+  --color-trail-100: #dcfce7;
+  --color-trail-500: #22c55e;
+  --color-trail-600: #16a34a;
+  --color-trail-700: #15803d;
+  --color-trail-900: #14532d;
+
+  /* Warm sand */
+  --color-sand-50: #fefce8;
+  --color-sand-100: #fef9c3;
+  --color-sand-200: #fef08a;
+  --color-sand-400: #facc15;
+
+  /* Fonts */
+  --font-sans: Inter, system-ui, sans-serif;
+  --font-serif: Lora, Georgia, serif;
+}

@@ -1,0 +1,35 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-gray-100 bg-gray-50 mt-16">
+  <div class="max-w-5xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-3 gap-8">
+    <div>
+      <div class="font-serif text-lg font-semibold mb-2">Sails &amp; Trails Family</div>
+      <p class="text-sm text-gray-500 leading-relaxed">
+        Family adventures on the water and on the trail — written by the people living them.
+      </p>
+    </div>
+
+    <div>
+      <div class="font-semibold text-sm uppercase tracking-wide text-gray-400 mb-3">Explore</div>
+      <ul class="space-y-2 text-sm text-gray-600">
+        <li><a href="/cruises/disney" class="hover:text-ocean-600 transition-colors">Disney Cruise Line</a></li>
+        <li><a href="/cruises/royal-caribbean" class="hover:text-ocean-600 transition-colors">Royal Caribbean</a></li>
+        <li><a href="/trails" class="hover:text-ocean-600 transition-colors">Trails &amp; Hiking</a></li>
+        <li><a href="/about" class="hover:text-ocean-600 transition-colors">About Our Family</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <div class="font-semibold text-sm uppercase tracking-wide text-gray-400 mb-3">Stay in touch</div>
+      <p class="text-sm text-gray-500 mb-3">Trip reports, planning guides, and the occasional disaster story — straight to your inbox.</p>
+      <a href="/#newsletter" class="text-sm font-medium text-ocean-600 hover:underline">Subscribe to the newsletter →</a>
+    </div>
+  </div>
+
+  <div class="border-t border-gray-200 max-w-5xl mx-auto px-4 py-4 flex flex-col md:flex-row justify-between items-center gap-2 text-xs text-gray-400">
+    <span>© {year} Sails &amp; Trails Family. All rights reserved.</span>
+    <span>Written by real humans who really go on these trips.</span>
+  </div>
+</footer>
