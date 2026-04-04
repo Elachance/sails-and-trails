@@ -18,11 +18,11 @@ Not that I'm counting.
 
 (I am absolutely counting.)
 
-Here's the thing: for me, the planning *is* the fun. The anticipation is part of the experience. Reading about what we're going to get to do, building the mental map of the ship, knowing which lounge we're going to claim as our home base — this is how I savor something before it even starts. If you're the kind of person who likes to go in totally cold and let the surprise wash over you, this post is probably not for you. But if you're the kind of person who has already pulled up the dining menus for a restaurant you won't visit for seven weeks, welcome. You're among friends.
+Here's the thing: for me, the planning *is* the fun. The anticipation is part of the experience. Reading about what we're going to get to do, building the mental map of the ship, knowing which lounge we're going to claim as our home base. This is how I savor something before it even starts. If you're the kind of person who likes to go in totally cold and let the surprise wash over you, this post is probably not for you. But if you're the kind of person who has already pulled up the dining menus for a restaurant you won't visit for seven weeks, welcome. You're among friends.
 
 ## The ship
 
-The Disney Destiny launched at the end of last year, which means we are sailing on a very new ship. The theming is Heroes vs. Villains — Disney's heroes on one side, Disney villains getting their full due on the other. I will be honest with you: I am not a die-hard superhero fan. I love some of the Marvel corners (Agatha All Along! WandaVision! Kathryn Hahn deserves every award!), but it's less the specific IPs that draw me and more what Disney does with *any* property — the eye for detail, the layers of design, the way every space has been thought through. Give me a beautifully designed themed environment and I will be happy regardless of whether I have strong feelings about the franchise. And on the heroes side specifically, I'm most excited about the Hercules show — my daughter loves going to shows with grandma, and I have a deep and only slightly irrational love for Disney's Hercules, messy Greek mythology and all.
+The Disney Destiny launched at the end of last year, which means we are sailing on a very new ship. The theming is Heroes vs. Villains: Disney's heroes on one side, Disney villains getting their full due on the other. I'll be upfront: I am not a die-hard superhero fan. I love some of the Marvel corners (Agatha All Along! WandaVision! Kathryn Hahn deserves every award!), but it's less the specific IPs that draw me and more what Disney does with *any* property. The eye for detail, the layers of design, the way every space has been thought through. Give me a beautifully designed themed environment and I will be happy regardless of whether I have strong feelings about the franchise. And on the heroes side specifically, I'm most excited about the Hercules show. Rabbit loves going to shows with grandma, and I have a deep and only slightly irrational love for Disney's Hercules, messy Greek mythology and all.
 
 The villain side, though? That I am here for. You wouldn't guess it by looking at me, but I have loved a good goth-spooky aesthetic since approximately birth, and I have wanted to be a pirate since I was my daughter's age. The Disney Destiny is delivering on both counts.
 
@@ -32,11 +32,11 @@ On the Disney Wish, the concierge lounge was one of our favorite discoveries —
 
 The Destiny's concierge lounge has different theming: it's inspired by the Avengers' Manhattan headquarters, with a sophisticated, elegant aesthetic. I found a good writeup on the specifics over at [DCL Cruising Dad](https://www.dclcruisingdad.com/destiny-concierge-staterooms) if you want the full details.
 
-I'll be honest: I'm not walking in expecting a carbon copy of the Wish lounge, and I think that's the right mindset. It'll be different. It'll be new. The service level on Disney concierge has been consistently excellent in my experience, and I have every reason to expect that continues regardless of what the walls look like. I'll report back with a full comparison once we've lived in it for a few days.
+I'm not walking in expecting a carbon copy of the Wish lounge, and I think that's the right mindset. It'll be different. It'll be new. The service level on Disney concierge has been consistently excellent in my experience, and I have every reason to expect that continues regardless of what the walls look like. I'll report back with a full comparison once we've lived in it for a few days.
 
 ## The bars, ranked by how excited I am
 
-This is the part where my husband and I do our due diligence. On cruises, we tend to find our favorite lounge and post up — drinks, Steam Deck, Switch 2, good conversation, kids off having the time of their lives somewhere else. On the Wish, the Star Wars Hyperspace Lounge was our spot. They had a drink called the Moons of Endor where they captured smoke inside sugar bubbles and blew them across the table. We took the kids to witness it because some things transcend bedtime. They were delighted. So were we.
+This is the part where Jim and I do our due diligence. On cruises, we tend to find our favorite lounge and post up — drinks, Steam Deck, Switch 2, good conversation, kids off having the time of their lives somewhere else. On the Wish, the Star Wars Hyperspace Lounge was our spot. They had a drink called the Moons of Endor where they captured smoke inside sugar bubbles and blew them across the table. We took the kids to witness it because some things transcend bedtime. They were delighted. So were we.
 
 The Destiny's lounge lineup, in descending order of my personal anticipation:
 
@@ -52,13 +52,13 @@ The Destiny's lounge lineup, in descending order of my personal anticipation:
 
 Both kids are over three. Both kids are potty trained. Both kids are going to the Oceaneer Club.
 
-Last year on the Wish, our daughter spent most of the cruise in the Oceaneer Club and emerged each day glowing like she'd had the best day of her life, which she probably had. Our son — then two, not yet eligible — watched her disappear into its depths during the open houses and was visibly devastated each time. He has been waiting for his turn with the patience of a three-year-old, which is to say barely any patience at all but enormous determination.
+Last year on the Wish, Rabbit spent most of the cruise in the Oceaneer Club and emerged each day glowing like she'd had the best day of her life, which she probably had. Raccoon (then two, not yet eligible) watched her disappear into its depths during the open houses and was visibly devastated each time. He has been waiting for his turn with the patience of a three-year-old, which is to say barely any patience at all but enormous determination.
 
-This year he gets to go in. I cannot wait to hear what he gravitates toward. His sister knew immediately what she loved: playing with the bigger kids, dance time, the Descendants movies, and any kind of art or hands-on project she could get her hands on. He is a different kid entirely and I genuinely have no idea what's going to capture him, which makes it all the more exciting to find out.
+This year he gets to go in. I cannot wait to hear what he gravitates toward. Rabbit knew immediately what she loved: playing with the bigger kids, dance time, the Descendants movies, and any kind of art or hands-on project she could get her hands on. He is a different kid entirely and I have no idea what's going to capture him, which makes it all the more exciting to find out.
 
-The Oceaneer Club on the Destiny also has an Imagineering Lab attached — a dedicated space for building and inventing. I would bet a significant amount of money that my daughter does not leave willingly. She is going to love it.
+The Oceaneer Club on the Destiny also has an Imagineering Lab attached, a dedicated space for building and inventing. I would bet a significant amount of money that Rabbit does not leave willingly. She is going to love it.
 
-What this means in practice: my husband and I will have actual, unscheduled time together on a moving ship. We have not fully processed this yet.
+What this means in practice: Jim and I will have actual, unscheduled time together on a moving ship. We have not fully processed this yet.
 
 ## The midnight email
 
@@ -70,7 +70,7 @@ We also specifically arranged our dining rotation to minimize our nights at the 
 
 The day after we return from the Destiny, we board the Fantasy from Port Canaveral — a separate sailing, non-concierge, with an expanded crew. My brother-in-law, his wife, and their daughter are joining us for this one.
 
-Their daughter did her first Disney cruise last December at almost one year old. She is firmly a baby who prefers to be near her parents at all times, which is a completely reasonable position to have when you are one. It'll be interesting to see if that's shifted at all by May. Either way, we're getting to spend time with her, and she is an absolute delight — the kind of baby who is endlessly charming right up until she isn't, which as far as I can tell is the universal baby experience.
+Their daughter did her first Disney cruise last December at almost one year old. She is firmly a baby who prefers to be near her parents at all times, which is a completely reasonable position to have when you are one. It'll be interesting to see if that's shifted at all by May. Either way, we're getting to spend time with her, and she is an absolute delight, the kind of baby who is endlessly charming right up until she isn't, which as far as I can tell is the universal baby experience.
 
 Two ships, two itineraries, two very different group configurations. I'll be writing about both.
 
