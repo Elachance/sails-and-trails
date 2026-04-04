@@ -6,6 +6,7 @@ category: cruise
 cruiseLine: disney
 author: Bailey Miller
 tags: [concierge, disney-wish, review, kids, castaway-cay, lookout-cay, planning]
+heroImage: /images/optimized/concierge-lounge-pluto-family-scene.jpg
 draft: false
 ---
 

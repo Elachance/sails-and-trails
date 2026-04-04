@@ -6,6 +6,7 @@ category: cruise
 cruiseLine: disney
 author: Bailey Miller
 tags: [concierge, disney-destiny, planning, kids, oceaneer-club, disney-wish]
+heroImage: /images/optimized/wish-atrium-overhead-princess-gathering.jpg
 draft: false
 ---
 

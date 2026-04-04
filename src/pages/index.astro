@@ -12,8 +12,15 @@ const recentPosts = allPosts
 
 <BaseLayout title="Home">
   <!-- Hero -->
-  <section class="bg-gradient-to-br from-ocean-900 via-ocean-700 to-ocean-500 text-white py-24 px-4">
-    <div class="max-w-3xl mx-auto text-center">
+  <section class="relative text-white py-24 px-4 overflow-hidden">
+    <img
+      src="/images/optimized/wish-sea-day-sunset-sky.jpg"
+      alt=""
+      aria-hidden="true"
+      class="absolute inset-0 w-full h-full object-cover object-center"
+    />
+    <div class="absolute inset-0 bg-ocean-900/60"></div>
+    <div class="relative max-w-3xl mx-auto text-center">
       <p class="text-ocean-200 text-sm font-medium uppercase tracking-widest mb-4">A family adventure blog</p>
       <h1 class="font-serif text-5xl md:text-6xl font-semibold leading-tight mb-6">
         Sails &amp; Trails
