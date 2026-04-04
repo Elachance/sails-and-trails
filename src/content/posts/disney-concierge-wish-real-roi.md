@@ -25,6 +25,9 @@ So last spring, the five of us boarded the Disney Wish in cabin 12526: Barbara, 
 
 Yes, it worked. Surprisingly well, actually. The Wish's layout is clever about this: there's a pull-out twin in what functions as a dining alcove, with its own curtain to separate it from the rest of the suite. Raccoon slept there in dark and quiet while the rest of us stayed up like adults. Rabbit, who would share a bed with Barbara on the moon if given the opportunity, happily shared the pull-out double with grandma. Jim and I had the actual bedroom. It worked better than it had any right to.
 
+![Raccoon asleep in the stateroom alcove with his stuffed dragon](/images/optimized/wish-stateroom-raccoon-sleeping.jpg)
+*Out cold by 8pm. The curtain did its job.*
+
 (For comparison: we once shared on the Magic, where the pull-out twin lives directly in the center of the room with no curtain and surprisingly sharp metal edges underneath it. Everyone got bruises. I drew blood. Learn from our mistakes.)
 
 ## What concierge actually gets you
@@ -41,6 +44,9 @@ The snack selection deserves its own mention. It had enough range that there was
 
 **Booking control.** This is the real thing. This is what I actually mean when I say it was worth it. More on this below.
 
+![The concierge lounge with Pluto visiting the kids](/images/optimized/concierge-lounge-pluto-family-scene.jpg)
+*Character visits in the lounge are unannounced and unhurried. This one lasted twenty minutes.*
+
 ## The midnight email strategy
 
 Disney concierge guests get early access to book specialty restaurants, excursions, and experiences, though "early access" is a bit of an understatement. The concierge team opens a booking window, and it is first-come, first-served. Requests go to a dedicated email address.
@@ -56,6 +62,11 @@ One caveat: even a perfectly-timed, perfectly-organized email is not a guarantee
 We had a cabana at Lookout Cay, Disney's newer private island, and I want to flag one thing before I tell you how great it was: the cabanas are *far* from the kids' activity areas. Like, meaningfully far. Barbara hauled our daughter around in a wagon to trams and back throughout the day, because Barbara wanted to explore the whole island and she was not wrong to want that.
 
 Here's the thing though: if your kids love the beach — actual sand, actual ocean, just digging and splashing — the cabana is perfect and the distance barely matters. Our kids are beach kids. They were happy for hours just existing near water. There's also a food area close to the cabanas, so you're not hiking for lunch.
+
+![Rabbit holding a shell she found on the beach at Lookout Cay](/images/optimized/lookout-cay-rabbit-holding-shell.jpg)
+
+![Kids in the wagon at the Lookout Cay cabana](/images/optimized/lookout-cay-kids-in-wagon-cabana.jpg)
+*The wagon Barbara hauled them around in all day. Worth every trip.*
 
 The activity areas have splash pads and structured play. If that's what your kids are drawn to, you may find yourself spending most of the day away from your cabana anyway. Know your children.
 
@@ -79,13 +90,18 @@ Dining reservations secured before general booking opens. Experiences booked bef
 
 When you have an unpredictable variable in your travel party — a toddler, an infant, a two-year-old with opinions about salt water — controlling the variables you *can* control is so valuable. That's the ROI. Not wine.
 
-## A note on the Oceaneer Club and Small World Nursery
+## A note on the Oceaneer Club and "it's a small world" nursery
 
-Last year our son was two and not yet potty trained, which meant the Oceaneer Club (Disney's incredible kids' club, ages 3 and up, requires potty training) was off limits for him. The Small World Nursery handled under-3s, and it was wonderful — but it has a logistical wrinkle worth knowing about: booking happens on the first day of the cruise at a designated open house, and you need to get there as soon as it opens. Spots are capped and fill based on how many under-3s are sailing, so timing matters.
+Last year our son was two and not yet potty trained, which meant the Oceaneer Club (Disney's incredible kids' club, ages 3 and up, requires potty training) was off limits for him. The "it's a small world" nursery handled under-3s, and it was wonderful — but it has a logistical wrinkle worth knowing about: you can reserve up to 10 hours in advance, but beyond that, additional hours are booked on embarkation day at a designated open house. Spots are capped based on how many under-3s are sailing, so getting to the open house early matters.
 
-Barbara warned me ahead of time — but if you don't have a Barbara, this one can catch you off guard. Critically: this is *not* something the concierge team handles for you. The concierge hosts work hard to cover your specialty dining reservations like Palo and Enchantée, but the nursery is yours to manage. Book your most important time slots first. The ones you absolutely cannot reschedule around. Then call each morning to request additional time if you want it.
+Barbara warned me ahead of time — but if you don't have a Barbara, this one can catch you off guard. A few things to know: this is *not* something the concierge team handles for you (they cover specialty dining like Palo and Enchantée, but the nursery is yours to manage). Use your advance hours for the time slots you absolutely cannot move around — Palo brunch, Enchantée, anything with a fixed reservation. Then use the open house for additional hours, and call each morning during the cruise if you want to add more time.
 
 Rabbit spent most of the cruise in the Oceaneer Club, which she loved with her whole heart and talked about for months afterward. Raccoon explored the ship with us, which was also delightful (Disney ships reward exploration), but it required more planning around naptime and his limits.
+
+![Raccoon standing at the Oceaneer Club entrance, looking in](/images/optimized/raccoon-waiting-at-oceaneer-club.jpg)
+
+![The Oceaneer Club lobby and staircase on the Disney Wish](/images/optimized/oceaneer-club-lobby-staircase-wish.jpg)
+*He attended every open house. He watched his sister walk in every day. He was ready.*
 
 This year, both kids are over three and potty trained. Raccoon has been waiting for his turn in the Oceaneer Club since he attended the open houses last year and watched his sister disappear into it every day. He has not forgotten. He is ready.
 

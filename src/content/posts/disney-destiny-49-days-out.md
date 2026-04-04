@@ -32,6 +32,9 @@ On the Disney Wish, the concierge lounge was one of our favorite discoveries —
 
 The Destiny's concierge lounge has different theming: it's inspired by the Avengers' Manhattan headquarters, with a sophisticated, elegant aesthetic. I found a good writeup on the specifics over at [DCL Cruising Dad](https://www.dclcruisingdad.com/destiny-concierge-staterooms) if you want the full details.
 
+![Pluto visiting the kids in the Disney Wish concierge lounge](/images/optimized/concierge-lounge-pluto-visit-surprise.jpg)
+*Character visits in the Wish lounge were unannounced and completely unhurried. That's the baseline I'm bringing to the Destiny.*
+
 I'm not walking in expecting a carbon copy of the Wish lounge, and I think that's the right mindset. It'll be different. It'll be new. The service level on Disney concierge has been consistently excellent in my experience, and I have every reason to expect that continues regardless of what the walls look like. I'll report back with a full comparison once we've lived in it for a few days.
 
 ## The bars, ranked by how excited I am
@@ -53,6 +56,9 @@ The Destiny's lounge lineup, in descending order of my personal anticipation:
 Both kids are over three. Both kids are potty trained. Both kids are going to the Oceaneer Club.
 
 Last year on the Wish, Rabbit spent most of the cruise in the Oceaneer Club and emerged each day glowing like she'd had the best day of her life, which she probably had. Raccoon (then two, not yet eligible) watched her disappear into its depths during the open houses and was visibly devastated each time. He has been waiting for his turn with the patience of a three-year-old, which is to say barely any patience at all but enormous determination.
+
+![The Oceaneer Club entrance on the Disney Wish, Alice in Wonderland mural](/images/optimized/oceaneer-club-entrance-alice-wonderland.jpg)
+*He stood outside this door at every open house last year. This May he walks through it.*
 
 This year he gets to go in. I cannot wait to hear what he gravitates toward. Rabbit knew immediately what she loved: playing with the bigger kids, dance time, the Descendants movies, and any kind of art or hands-on project she could get her hands on. He is a different kid entirely and I have no idea what's going to capture him, which makes it all the more exciting to find out.
 
