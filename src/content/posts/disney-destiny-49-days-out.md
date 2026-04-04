@@ -69,7 +69,7 @@ What this means in practice: Jim and I will have actual, unscheduled time togeth
 
 ## The midnight email
 
-I wrote about the concierge booking process in detail in [the previous post](/blog/disney-concierge-wish-real-roi) — the midnight Eastern send time, the priority order, Barbara's masterful organization — so I won't rehash all of it here. What I'll say for this sailing is that we have a cabana booked for Castaway Cay, the Adventure Tea is on the calendar, the kids are doing the Pirate League, Enchantée is secured, and Palo brunch is happening on a sea day.
+I wrote about the concierge booking process in detail in [the previous post](/blog/disney-concierge-wish-real-roi) — the midnight Eastern send time, the priority order, Barbara's masterful organization — so I won't rehash all of it here. What I'll say for this sailing is that we have a cabana booked for Castaway Cay, the Adventure Tea is on the calendar, the kids are doing the Pirate League, Enchanté is secured, and Palo brunch is happening on a sea day.
 
 We also specifically arranged our dining rotation to minimize our nights at the Marvel restaurant. This is not a moral position. We just know ourselves.
 
