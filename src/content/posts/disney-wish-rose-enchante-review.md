@@ -8,6 +8,17 @@ author: Bailey Miller
 tags: [disney-wish, dining, the-rose, enchante, adult-dining, concierge, review]
 heroImage: /images/optimized/rose-restaurant-chandelier-interior.jpg
 draft: false
+faqs:
+  - question: "What is The Rose on the Disney Wish?"
+    answer: "The Rose is a Beauty and the Beast-themed cocktail bar on Deck 12, positioned between Enchanté and Palo Steakhouse. Floor-to-ceiling windows, warm lighting, and its own cocktail menu. It's quiet enough to have a real conversation and worth treating as a destination, not just a waiting area."
+  - question: "What is Enchanté like on the Disney Wish?"
+    answer: "Enchanté by Chef Arnaud Lallement is a prix fixe tasting menu restaurant inspired by Lumière from Beauty and the Beast, with an optional wine pairing. The service is exceptional — each course and wine is introduced — and the food is genuinely unlike standard cruise dining. The dessert presentation is a visual moment."
+  - question: "Is Enchanté worth it on the Disney Wish?"
+    answer: "Yes, for guests who appreciate fine dining. The service is exceptional, the food is genuinely surprising, and the room itself is one of the most beautiful dining spaces on the ship. Take notes on the menu during the meal — you will want to remember the details and won't."
+  - question: "Do you need reservations for Enchanté on the Disney Wish?"
+    answer: "Yes, Enchanté requires a reservation. Concierge guests book through the concierge team via the midnight email window — see our post on the concierge booking process for how to time and structure that request."
+  - question: "Is The Rose bar just a waiting area for Enchanté and Palo?"
+    answer: "No — though it's easy to treat it that way, which is a mistake we made. The Rose has its own cocktail menu and its own identity. Build in time before your dinner reservation to have a drink there. It's beautiful at dusk and quieter than anywhere else on the ship."
 ---
 
 There is a hallway on Deck 12 of the Disney Wish where you turn a corner and stop walking. Not because anything blocks your path, but because of what's sitting on a pedestal in front of you: a single red rose, the petals just beginning to fall, sealed under a glass dome. Gold lettering on the dark wall behind it reads *The Rose*.

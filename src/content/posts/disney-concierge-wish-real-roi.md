@@ -8,6 +8,19 @@ author: Bailey Miller
 tags: [concierge, disney-wish, review, kids, castaway-cay, lookout-cay, planning]
 heroImage: /images/optimized/lookout-cay-rabbit-holding-shell.jpg
 draft: false
+faqs:
+  - question: "Is Disney Concierge worth it for families with young kids?"
+    answer: "Yes — but not for the wine math, which doesn't work. The value is the early booking window that secures cabanas and specialty dining before they sell out, priority boarding while the ship is still calm, and a lounge with breakfast service that's a genuine relief when you're traveling with toddlers."
+  - question: "What do you actually get with Disney Cruise Line Concierge?"
+    answer: "A dedicated lounge with hosts who learn your name, complimentary snacks throughout the day and drinks in the evening, priority boarding, and early access to book specialty dining and experiences before general guests. The lounge breakfast — calm, staffed, low-stimulation — is worth something significant when you're traveling with young children."
+  - question: "How does the Disney Concierge booking window work?"
+    answer: "Concierge guests email a dedicated address at midnight Eastern to request specialty dining and experiences. It's first-come, first-served, so timing matters. List requests in priority order, include your reservation numbers, and note any constraints. Even a well-timed email doesn't guarantee popular items like cabanas, which can still book out."
+  - question: "Can 5 people sleep in a Disney Wish concierge one-bedroom suite?"
+    answer: "Yes. The one-bedroom suite on the Wish has a pull-out twin in the dining alcove with its own curtain, a pull-out double in the main area, and a separate bedroom — five people with real division between sleeping spaces."
+  - question: "Are Lookout Cay cabanas worth it for families?"
+    answer: "Yes, especially for beach kids who are happy in sand and water for hours. One thing to know: the cabanas are far from the kids' activity areas, so expect trips back and forth if your children want structured play. The cabana is also the only real shade on Lookout Cay, which matters."
+  - question: "Does the Disney Concierge team handle the 'it's a small world' nursery booking?"
+    answer: "No. The nursery for children under 3 is managed separately: up to 10 hours can be booked in advance, and additional hours are secured at an open house on embarkation day with limited spots. The concierge team handles specialty dining like Palo and Enchanté, but the nursery is yours to manage."
 ---
 
 Let me start with the wine math.

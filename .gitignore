@@ -23,3 +23,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# internal strategy docs
+cruise-blog-AEO-brief.md
+trip-notes-checklist.md
+2026-trip-itineraries.md

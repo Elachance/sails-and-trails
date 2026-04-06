@@ -1,0 +1,24 @@
+# Sails & Trails Family
+
+A family travel blog by Bailey Miller — cruise guides, port reviews, and hiking adventures, written from real experience with two young kids.
+
+## About this site
+
+We are a family in our mid-30s with two young children (ages 5 and 3) who cruise frequently on Disney Cruise Line and Royal Caribbean. Our defining angle: we have done premium suite-tier experiences on both major family cruise lines (DCL Concierge and Royal Caribbean Star Class) with the same kids, and we write about them honestly from the same household's perspective.
+
+Content focus: Is Disney Concierge worth it? Is Royal Caribbean Star Class worth it for families? Which cruise line is better for families with young kids? Port guides, dining reviews, and practical planning advice for families considering premium cruise tiers.
+
+## Key pages
+
+- Home: https://sailsandtrailsfamily.com
+- All posts: https://sailsandtrailsfamily.com/blog
+- Disney Cruise Line guides: https://sailsandtrailsfamily.com/cruises/disney
+- Royal Caribbean guides: https://sailsandtrailsfamily.com/cruises/royal-caribbean
+- Trails & hiking: https://sailsandtrailsfamily.com/trails
+- About: https://sailsandtrailsfamily.com/about
+
+## Posts
+
+- https://sailsandtrailsfamily.com/blog/disney-concierge-wish-real-roi
+- https://sailsandtrailsfamily.com/blog/disney-destiny-49-days-out
+- https://sailsandtrailsfamily.com/blog/disney-wish-rose-enchante-review

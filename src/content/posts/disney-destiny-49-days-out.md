@@ -8,6 +8,17 @@ author: Bailey Miller
 tags: [concierge, disney-destiny, planning, kids, oceaneer-club, disney-wish]
 heroImage: /images/optimized/wish-sea-day-sunset-deck-railing.jpg
 draft: false
+faqs:
+  - question: "What is the Disney Destiny themed?"
+    answer: "Heroes vs. Villains — Disney heroes on one side of the ship, Disney villains on the other. Entertainment includes a Hercules show, and the bar lineup features a Haunted Mansion bar, a Cruella lounge with live piano, a Doctor Strange lounge, and a pirate lounge."
+  - question: "What is the concierge lounge like on the Disney Destiny?"
+    answer: "The Destiny's concierge lounge is themed after the Avengers' Manhattan headquarters — sophisticated and elegant. It's different from the Wish lounge in aesthetic but the service level is consistent across Disney concierge sailings."
+  - question: "What bars and lounges are on the Disney Destiny?"
+    answer: "Four adult lounges: a pirate lounge with a pub-like atmosphere, a Haunted Mansion bar, a Cruella lounge with live piano, and a Doctor Strange lounge known for theatrical cocktail presentations."
+  - question: "What age is the Oceaneer Club on Disney Cruise Line?"
+    answer: "Ages 3 and up, with potty training required. On the Destiny, it includes an Imagineering Lab — a dedicated building-and-inventing space. Children under 3 use the 'it's a small world' nursery, which is separately managed and has limited capacity based on the number of under-3s sailing."
+  - question: "What can you book through Disney Destiny Concierge?"
+    answer: "Through the concierge midnight email you can book specialty dining like Enchanté and Palo, excursions, port experiences, cabanas, kids' experiences like the Pirate League and Bibbidi Bobbidi Boutique, and activities like Adventure Tea. Dining rotation preferences can also be requested."
 ---
 
 > "To eke out the most happiness from an experience, we must anticipate it, savor it as it unfolds, express happiness, and recall a happy memory."

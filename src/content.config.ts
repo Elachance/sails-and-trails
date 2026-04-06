@@ -14,6 +14,10 @@ const posts = defineCollection({
     tags: z.array(z.string()).default([]),
     author: z.string().default('Bailey Miller'),
     draft: z.boolean().default(false),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 

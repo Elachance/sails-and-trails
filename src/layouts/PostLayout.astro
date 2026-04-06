@@ -7,7 +7,33 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, pubDate, updatedDate, heroImage, author, tags, category, cruiseLine } = post.data;
+const { title, description, pubDate, updatedDate, heroImage, author, tags, category, cruiseLine, faqs } = post.data;
+
+const canonicalURL = new URL(`/blog/${post.id}`, Astro.site);
+const imageURL = heroImage ? new URL(heroImage, Astro.site).toString() : undefined;
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  datePublished: pubDate.toISOString(),
+  ...(updatedDate && { dateModified: updatedDate.toISOString() }),
+  author: { '@type': 'Person', name: author },
+  publisher: { '@type': 'Organization', name: 'Sails & Trails Family', url: 'https://sailsandtrailsfamily.com' },
+  url: canonicalURL.toString(),
+  ...(imageURL && { image: imageURL }),
+};
+
+const faqSchema = faqs?.length ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map(({ question, answer }) => ({
+    '@type': 'Question',
+    name: question,
+    acceptedAnswer: { '@type': 'Answer', text: answer },
+  })),
+} : null;
 
 const categoryLabel = category === 'cruise'
   ? (cruiseLine === 'disney' ? 'Disney Cruise Line' : cruiseLine === 'royal-caribbean' ? 'Royal Caribbean' : 'Cruising')
@@ -17,6 +43,8 @@ const categoryColor = category === 'cruise' ? 'bg-ocean-100 text-ocean-700' : 'b
 ---
 
 <BaseLayout title={title} description={description} image={heroImage}>
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} slot="head" />
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />}
   <article class="max-w-3xl mx-auto px-4 py-12">
     {heroImage && (
       <img
