@@ -1,7 +1,4 @@
 ---
-// Using Kit (ConvertKit) for newsletter
-// Replace YOUR_FORM_ID with your actual Kit form ID after signing up at kit.com
-const KIT_FORM_ID = '9284496';
 ---
 
 <section id="newsletter" class="bg-ocean-900 text-white py-16 px-4">
@@ -15,13 +12,14 @@ const KIT_FORM_ID = '9284496';
     </p>
 
     <form
-      action={`https://app.kit.com/forms/${KIT_FORM_ID}/subscriptions`}
+      action="https://buttondown.com/api/emails/embed-subscribe/elachance"
       method="post"
       class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto"
     >
+      <input type="hidden" name="embed" value="1" />
       <input
         type="email"
-        name="email_address"
+        name="email"
         placeholder="your@email.com"
         required
         class="flex-1 px-4 py-3 rounded-full bg-ocean-800 text-white placeholder-ocean-300 text-sm focus:outline-none focus:ring-2 focus:ring-ocean-400"
@@ -35,5 +33,6 @@ const KIT_FORM_ID = '9284496';
     </form>
 
     <p class="text-xs text-ocean-200 mt-4">Join the crew. Leave anytime.</p>
+    <p class="text-xs text-ocean-400 mt-2"><a href="https://buttondown.com" target="_blank" class="hover:text-ocean-200 transition-colors">Powered by Buttondown</a></p>
   </div>
 </section>
