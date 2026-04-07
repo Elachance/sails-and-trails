@@ -64,8 +64,17 @@ What I do remember: the service was exceptional in the way that good fine dining
 The cheese course was excellent and also a minor source of entertainment: Barbara, who has strong feelings about cheese (she does not like it), stoically accompanied Jim and me through it while sending photographs to Bill (who was not on this sailing and who absolutely would have loved it) to make him jealous. She suffers for the people she loves.
 
 ![The dessert course at Enchanté](/images/optimized/enchantee-dessert-spread-marble-table.jpg)
+*We were thoroughly stuffed by this point. About half of those went to the kids.*
 
 The desserts were a visual moment — an array of small preparations that arrived looking like they belonged in a pastry case. I finally realized I wanted to have pictures of this dinner. Too late, but hopefully not too little. They tasted as good as they looked.
+
+Then, at the end of the meal, the restaurant sent the ladies home with roses.
+
+I do not have a photograph of that either. What I have is the memory of how they smelled: deep, full, layered, the kind of rose scent you don't encounter anymore and then suddenly do, and you understand immediately why people have been growing them for thousands of years. Barbara and I each carried one out.
+
+Rabbit pressed her face into mine the moment she saw it. She came up slowly. She gave me the look she uses when something has entered her permanent collection. She has mentioned those roses since. More than once, and unprompted.
+
+She is still delighted by the memory of how they smelled. So am I.
 
 ## What I'm doing differently on the Destiny
 

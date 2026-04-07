@@ -63,7 +63,13 @@ Our cabana had a private patch of sand, a hammock, a couch, a mini fridge stocke
 
 The snack basket was also a hit. We don't keep chips at home, which meant Raccoon treated each Dorito with the reverence usually reserved for something much more significant. Jim and I watched from the hammock while the two of them gleefully sorted through what they'd been given, and neither of us said a word about the Doritos.
 
+![Raccoon sitting in the sand at Discovery Cove, eating chips with great concentration](/images/optimized/discovery-cove-raccoon-eating-chips-sand.jpg)
+*He found the Doritos extremely significant.*
+
 Having a home base matters at a place like Discovery Cove. When you want to be in the water, you go. When someone needs a break, the cabana is there. We rotated through it all day. Barbara and Rabbit covered more of the park while Jim, Raccoon, and I did the lazy river and settled into the shallow pool by the bar, and then we'd all meet back up in the sand.
+
+![Jim and Raccoon in the cabana hammock at Discovery Cove](/images/optimized/discovery-cove-jim-raccoon-hammock.jpg)
+*The hammock got a lot of use.*
 
 ## What should you know before taking toddlers to Discovery Cove?
 
@@ -95,9 +101,14 @@ Treetop Trek Chutes is a kids-focused adventure ropes course with 22 elements an
 
 We did this with Rabbit, who was four and a half. I can tell you it's right for a kid who is physically confident, willing to solve a puzzle under pressure, and the type who gets more determined when something is hard rather than more reluctant.
 
+![Rabbit getting harnessed up for the Treetop Trek Chutes course at Brevard Zoo](/images/optimized/brevard-zoo-rabbit-getting-harnessed.jpg)
+*Ready. Probably more ready than the parents watching her.*
+
 The carabiner system is the thing to know about. It's a continuous belay: the carabiner never leaves the cable, but at each junction you have to maneuver it past the connector to transfer to the next section. You're always attached, but figuring out the right grip and angle to clear the connector takes real dexterity and focus, especially with small hands. I watched Rabbit's face as the guide demonstrated it before the course started and thought: this might be the thing that stops her.
 
 It wasn't. She fumbled through it a few times on the first element, got a feel for it, and by the second one she was moving through the sequence without thinking. By the end she was ready to pass the other child on the course in front of her.
+
+![View looking up through the Treetop Trek canopy at Brevard Zoo](/images/optimized/brevard-zoo-treetop-course-canopy.jpg)
 
 That other child is part of the story. She was probably ten years old, older than Rabbit by several years, and she hit a section partway through the course and froze. Froze, high up, unable to move forward or back. The guide handled it beautifully: got a ladder, went up, talked her through it calmly. She got through the whole thing, with Rabbit right behind her, visibly worried about this older kid, checking over her shoulder, waiting. She told me she felt bad that the girl was scared and that different people get scared of different things.
 
@@ -112,6 +123,9 @@ While Rabbit and I were on the course, Jim, Barbara, and Raccoon went around the
 ## What else is worth doing at Brevard Zoo?
 
 The giraffes were a highlight. There was a young one, small enough that you could see it was still figuring out its legs, and an ostrich in the same enclosure that had apparently decided the baby giraffe was its nemesis. It would puff up enormous, spread its wings as wide as they'd go, and then charge. The baby giraffe would scramble away. The adult giraffes were completely indifferent to all of this. The ostrich was not deterred.
+
+![Giraffe face closeup at Brevard Zoo](/images/optimized/brevard-zoo-giraffe-face-closeup.jpg)
+*Completely unbothered. The ostrich did not feel the same.*
 
 There were also large birds swooping into the water near the zoo pathways and diving under, staying under for what felt like an improbably long time before surfacing. Apparently these are just native Florida birds doing normal Florida bird things. They were spectacular.
 

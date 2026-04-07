@@ -39,8 +39,13 @@ So last spring, the five of us boarded the Disney Wish in cabin 12526: Barbara, 
 
 Yes, it worked. Surprisingly well, actually. The Wish's layout is clever about this: there's a pull-out twin in what functions as a dining alcove, with its own curtain to separate it from the rest of the suite. Raccoon slept there in dark and quiet while the rest of us stayed up like adults. Rabbit, who would share a bed with Barbara on the moon if given the opportunity, happily shared the pull-out double with grandma. Jim and I had the actual bedroom. It worked better than it had any right to.
 
+![The Neverland painting in the Disney Wish concierge stateroom](/images/optimized/wish-stateroom-neverland-painting.jpg)
+
 ![Raccoon asleep in the stateroom alcove with his stuffed dragon](/images/optimized/wish-stateroom-raccoon-sleeping.jpg)
 *Out cold by 8pm. The curtain did its job.*
+
+![Rabbit asleep in the stateroom](/images/optimized/wish-stateroom-rabbit-sleeping.jpg)
+*She would share a bed with Barbara on the moon. This worked out perfectly for everyone.*
 
 (For comparison: we once shared on the Magic, where the pull-out twin lives directly in the center of the room with no curtain and surprisingly sharp metal edges underneath it. Everyone got bruises. I drew blood. Learn from our mistakes.)
 

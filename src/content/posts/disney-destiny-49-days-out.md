@@ -36,6 +36,9 @@ Here's the thing: for me, the planning *is* the fun. The anticipation is part of
 
 The Disney Destiny launched at the end of last year, which means we are sailing on a very new ship. The theming is Heroes vs. Villains: Disney's heroes on one side, Disney villains getting their full due on the other. I'll be upfront: I am not a die-hard superhero fan. I love some of the Marvel corners (Agatha All Along! WandaVision! Kathryn Hahn deserves every award!), but it's less the specific IPs that draw me and more what Disney does with *any* property. The eye for detail, the layers of design, the way every space has been thought through. Give me a beautifully designed themed environment and I will be happy regardless of whether I have strong feelings about the franchise. And on the heroes side specifically, I'm most excited about the Hercules show. Rabbit loves going to shows with grandma, and I have a deep and only slightly irrational love for Disney's Hercules, messy Greek mythology and all.
 
+![Raccoon wearing 3D glasses in his seat at the theater, show program in his lap](/images/optimized/raccoon-3d-glasses-lap-show.jpg)
+*He attends every show that will have him. This year he's eligible for all of them.*
+
 The villain side, though? That I am here for. You wouldn't guess it by looking at me, but I have loved a good goth-spooky aesthetic since approximately birth, and I have wanted to be a pirate since I was my daughter's age. The Disney Destiny is delivering on both counts.
 
 ## The lounge
@@ -43,6 +46,9 @@ The villain side, though? That I am here for. You wouldn't guess it by looking a
 On the Disney Wish, the concierge lounge was one of our favorite discoveries — quieter, calmer, staffed by hosts who knew our names, and stocked with tiny smoothies that both of my children treated as a personal gift. (I also treated them as a personal gift. No notes.)
 
 The Destiny's concierge lounge has different theming: it's inspired by the Avengers' Manhattan headquarters, with a sophisticated, elegant aesthetic. I found a good writeup on the specifics over at [DCL Cruising Dad](https://www.dclcruisingdad.com/destiny-concierge-staterooms) if you want the full details.
+
+![Raccoon pointing at an Avengers poster](/images/optimized/raccoon-pointing-at-avengers-poster.jpg)
+*He has opinions about the Avengers. The Avengers lounge has been explained to him. He approves.*
 
 ![Pluto visiting the kids in the Disney Wish concierge lounge](/images/optimized/concierge-lounge-pluto-visit-surprise.jpg)
 *Character visits in the Wish lounge were unannounced and completely unhurried. That's the baseline I'm bringing to the Destiny.*
@@ -52,6 +58,9 @@ I'm not walking in expecting a carbon copy of the Wish lounge, and I think that'
 ## The bars, ranked by how excited I am
 
 This is the part where Jim and I do our due diligence. On cruises, we tend to find our favorite lounge and post up — drinks, Steam Deck, Switch 2, good conversation, kids off having the time of their lives somewhere else. On the Wish, the Star Wars Hyperspace Lounge was our spot. They had a drink called the Moons of Endor where they captured smoke inside sugar bubbles and blew them across the table. We took the kids to witness it because some things transcend bedtime. They were delighted. So were we.
+
+![The Macallan whisky lineup at the bar on the Disney Wish](/images/optimized/wish-bar-macallan-whisky-lineup.jpg)
+*We also did some research that was not suitable for bringing the children.*
 
 The Destiny's lounge lineup, in descending order of my personal anticipation:
 
@@ -81,6 +90,9 @@ What this means in practice: Jim and I will have actual, unscheduled time togeth
 ## The midnight email
 
 I wrote about the concierge booking process in detail in [the previous post](/blog/disney-concierge-wish-real-roi) — the midnight Eastern send time, the priority order, Barbara's masterful organization — so I won't rehash all of it here. What I'll say for this sailing is that we have a cabana booked for Castaway Cay, the Adventure Tea is on the calendar, the kids are doing the Pirate League, Enchanté is secured, and Palo brunch is happening on a sea day.
+
+![Rabbit in her Pirate League costume in the ship hallway](/images/optimized/rabbit-pirate-league-costume-hallway.jpg)
+*This is from last year. She still talks about it. She is doing it again.*
 
 We also specifically arranged our dining rotation to minimize our nights at the Marvel restaurant. This is not a moral position. We just know ourselves.
 
