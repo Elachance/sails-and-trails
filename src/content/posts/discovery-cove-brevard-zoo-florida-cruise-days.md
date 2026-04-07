@@ -1,7 +1,7 @@
 ---
 title: "Discovery Cove and Brevard Zoo: What to Do With the Days Around a Florida Disney Cruise"
 description: "We had days before our first sailing and between two back-to-back Disney cruises. Here's how we filled them, and why we'd do the same thing again."
-pubDate: 2026-04-06
+pubDate: 2026-04-06T20:00:00-07:00
 category: cruise
 cruiseLine: disney
 author: Bailey Miller
