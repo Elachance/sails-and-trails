@@ -10,19 +10,19 @@ heroImage: /images/optimized/wish-sea-day-sunset-deck-railing.jpg
 draft: false
 faqs:
   - question: "What is the Disney Destiny themed?"
-    answer: "Heroes vs. Villains — Disney heroes on one side of the ship, Disney villains on the other. Entertainment includes a Hercules show, and the bar lineup features a Haunted Mansion bar, a Cruella lounge with live piano, a Doctor Strange lounge, and a pirate lounge."
+    answer: "Heroes vs. Villains: Disney heroes on one side of the ship, Disney villains on the other. Entertainment includes a Hercules show, and the bar lineup features a Haunted Mansion bar, a Cruella lounge with live piano, a Doctor Strange lounge, and a pirate lounge."
   - question: "What is the concierge lounge like on the Disney Destiny?"
-    answer: "The Destiny's concierge lounge is themed after the Avengers' Manhattan headquarters — sophisticated and elegant. It's different from the Wish lounge in aesthetic but the service level is consistent across Disney concierge sailings."
+    answer: "The Destiny's concierge lounge is themed after the Avengers' Manhattan headquarters, with a sophisticated, elegant aesthetic. It's different from the Wish lounge in aesthetic but the service level is consistent across Disney concierge sailings."
   - question: "What bars and lounges are on the Disney Destiny?"
     answer: "Four adult lounges: a pirate lounge with a pub-like atmosphere, a Haunted Mansion bar, a Cruella lounge with live piano, and a Doctor Strange lounge known for theatrical cocktail presentations."
   - question: "What age is the Oceaneer Club on Disney Cruise Line?"
-    answer: "Ages 3 and up, with potty training required. On the Destiny, it includes an Imagineering Lab — a dedicated building-and-inventing space. Children under 3 use the 'it's a small world' nursery, which is separately managed and has limited capacity based on the number of under-3s sailing."
+    answer: "Ages 3 and up, with potty training required. On the Destiny, it includes an Imagineering Lab, a dedicated building-and-inventing space. Children under 3 use the 'it's a small world' nursery, which is separately managed and has limited capacity based on the number of under-3s sailing."
   - question: "What can you book through Disney Destiny Concierge?"
     answer: "Through the concierge midnight email you can book specialty dining like Enchanté and Palo, excursions, port experiences, cabanas, kids' experiences like the Pirate League and Bibbidi Bobbidi Boutique, and activities like Adventure Tea. Dining rotation preferences can also be requested."
 ---
 
 > "To eke out the most happiness from an experience, we must anticipate it, savor it as it unfolds, express happiness, and recall a happy memory."
-> — Gretchen Rubin, *The Happiness Project*
+> Gretchen Rubin, *The Happiness Project*
 
 I came across this quote recently while trying to articulate something I already believed, and it landed so perfectly I had to put it at the top of this post. This outlook is also the reason I have spent a non-trivial portion of the last several weeks reading every available piece of information about the Disney Destiny, a ship I have never set foot on, in preparation for a sailing that is 49 days away.
 
@@ -43,7 +43,7 @@ The villain side, though? That I am here for. You wouldn't guess it by looking a
 
 ## The lounge
 
-On the Disney Wish, the concierge lounge was one of our favorite discoveries — quieter, calmer, staffed by hosts who knew our names, and stocked with tiny smoothies that both of my children treated as a personal gift. (I also treated them as a personal gift. No notes.)
+On the Disney Wish, the concierge lounge was one of our favorite discoveries: quieter, calmer, staffed by hosts who knew our names, and stocked with tiny smoothies that both of my children treated as a personal gift. (I also treated them as a personal gift. No notes.)
 
 The Destiny's concierge lounge has different theming: it's inspired by the Avengers' Manhattan headquarters, with a sophisticated, elegant aesthetic. I found a good writeup on the specifics over at [DCL Cruising Dad](https://www.dclcruisingdad.com/destiny-concierge-staterooms) if you want the full details.
 
@@ -57,14 +57,14 @@ I'm not walking in expecting a carbon copy of the Wish lounge, and I think that'
 
 ## The bars, ranked by how excited I am
 
-This is the part where Jim and I do our due diligence. On cruises, we tend to find our favorite lounge and post up — drinks, Steam Deck, Switch 2, good conversation, kids off having the time of their lives somewhere else. On the Wish, the Star Wars Hyperspace Lounge was our spot. They had a drink called the Moons of Endor where they captured smoke inside sugar bubbles and blew them across the table. We took the kids to witness it because some things transcend bedtime. They were delighted. So were we.
+This is the part where Jim and I do our due diligence. On cruises, we tend to find our favorite lounge and post up: drinks, Steam Deck, Switch 2, good conversation, kids off having the time of their lives somewhere else. On the Wish, the Star Wars Hyperspace Lounge was our spot. They had a drink called the Moons of Endor where they captured smoke inside sugar bubbles and blew them across the table. We took the kids to witness it because some things transcend bedtime. They were delighted. So were we.
 
 ![The Macallan whisky lineup at the bar on the Disney Wish](/images/optimized/wish-bar-macallan-whisky-lineup.jpg)
 *We also did some research that was not suitable for bringing the children.*
 
 The Destiny's lounge lineup, in descending order of my personal anticipation:
 
-**The pirate lounge.** This is probably where we're going to live. Cozy, nautical, and based on everything I've read, it has the energy of a good pub — which is exactly what we often end up in anyway. On many ships we find the Irish pub equivalent and we stay there. (I didn't think the Star Wars lounge would be our spot on the Wish, and yet. Ships surprise you.) This appears to be it.
+**The pirate lounge.** This is probably where we're going to live. Cozy, nautical, and based on everything I've read, it has the energy of a good pub, which is exactly what we often end up in anyway. On many ships we find the Irish pub equivalent and we stay there. (I didn't think the Star Wars lounge would be our spot on the Wish, and yet. Ships surprise you.) This appears to be it.
 
 **The Haunted Mansion bar.** I am very interested in what they do with the drinks here. Disney's Haunted Mansion theming has an incredible design language and I expect whoever designed the cocktail menu had fun with it. We will be conducting thorough research.
 
@@ -89,7 +89,7 @@ What this means in practice: Jim and I will have actual, unscheduled time togeth
 
 ## The midnight email
 
-I wrote about the concierge booking process in detail in [the previous post](/blog/disney-concierge-wish-real-roi) — the midnight Eastern send time, the priority order, Barbara's masterful organization — so I won't rehash all of it here. What I'll say for this sailing is that we have a cabana booked for Castaway Cay, the Adventure Tea is on the calendar, the kids are doing the Pirate League, Enchanté is secured, and Palo brunch is happening on a sea day.
+I wrote about the concierge booking process in detail in [the previous post](/blog/disney-concierge-wish-real-roi) (the midnight Eastern send time, the priority order, Barbara's masterful organization), so I won't rehash all of it here. What I'll say for this sailing is that we have a cabana booked for Castaway Cay, the Adventure Tea is on the calendar, the kids are doing the Pirate League, Enchanté is secured, and Palo brunch is happening on a sea day.
 
 ![Rabbit in her Pirate League costume in the ship hallway](/images/optimized/rabbit-pirate-league-costume-hallway.jpg)
 *This is from last year. She still talks about it. She is doing it again.*
@@ -98,7 +98,7 @@ We also specifically arranged our dining rotation to minimize our nights at the 
 
 ## The second sailing
 
-The day after we return from the Destiny, we board the Fantasy from Port Canaveral — a separate sailing, non-concierge, with an expanded crew. My brother-in-law, his wife, and their daughter are joining us for this one.
+The day after we return from the Destiny, we board the Fantasy from Port Canaveral, a separate sailing, non-concierge, with an expanded crew. My brother-in-law, his wife, and their daughter are joining us for this one.
 
 Their daughter did her first Disney cruise last December at almost one year old. She is firmly a baby who prefers to be near her parents at all times, which is a completely reasonable position to have when you are one. It'll be interesting to see if that's shifted at all by May. Either way, we're getting to spend time with her, and she is an absolute delight, the kind of baby who is endlessly charming right up until she isn't, which as far as I can tell is the universal baby experience.
 
@@ -112,4 +112,4 @@ The planning is part of savoring it. But I'm ready for the thing itself.
 
 ---
 
-*Have you sailed the Disney Destiny yet? I'd love to hear what surprised you — drop a comment below or [subscribe to the newsletter](#newsletter) for our full trip report when we're back in June.*
+*Have you sailed the Disney Destiny yet? I'd love to hear what surprised you. Drop a comment below or [subscribe to the newsletter](#newsletter) for our full trip report when we're back in June.*

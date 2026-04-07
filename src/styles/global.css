@@ -25,6 +25,9 @@
   --color-sand-100: #fef9c3;
   --color-sand-200: #fef08a;
   --color-sand-400: #facc15;
+  --color-sand-600: #ca8a04;
+  --color-sand-700: #a16207;
+  --color-sand-900: #713f12;
 
   /* Fonts */
   --font-sans: Inter, system-ui, sans-serif;

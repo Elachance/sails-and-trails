@@ -10,10 +10,14 @@ const { title, description, pubDate, heroImage, author, category, cruiseLine } =
 
 const categoryLabel = category === 'cruise'
   ? (cruiseLine === 'disney' ? 'Disney' : cruiseLine === 'royal-caribbean' ? 'Royal Caribbean' : 'Cruising')
-  : category === 'trail' ? 'Trails' : 'General';
+  : category === 'trail' ? 'Trails'
+  : category === 'shore-adventures' ? 'Shore Adventures'
+  : 'General';
 
 const categoryColor = category === 'cruise'
   ? 'bg-ocean-100 text-ocean-700'
+  : category === 'shore-adventures'
+  ? 'bg-sand-100 text-sand-700'
   : 'bg-trail-100 text-trail-700';
 ---
 
@@ -21,8 +25,8 @@ const categoryColor = category === 'cruise'
   {heroImage ? (
     <img src={heroImage} alt={title} class="w-full h-48 object-cover group-hover:scale-[1.02] transition-transform duration-300" />
   ) : (
-    <div class={`w-full h-48 flex items-center justify-center text-4xl ${category === 'cruise' ? 'bg-ocean-50' : 'bg-trail-50'}`}>
-      {category === 'cruise' ? '🚢' : '🥾'}
+    <div class={`w-full h-48 flex items-center justify-center text-4xl ${category === 'cruise' ? 'bg-ocean-50' : category === 'shore-adventures' ? 'bg-sand-50' : 'bg-trail-50'}`}>
+      {category === 'cruise' ? '🚢' : category === 'shore-adventures' ? '🏖️' : '🥾'}
     </div>
   )}
   <div class="p-5">

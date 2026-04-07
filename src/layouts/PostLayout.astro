@@ -37,9 +37,15 @@ const faqSchema = faqs?.length ? {
 
 const categoryLabel = category === 'cruise'
   ? (cruiseLine === 'disney' ? 'Disney Cruise Line' : cruiseLine === 'royal-caribbean' ? 'Royal Caribbean' : 'Cruising')
-  : category === 'trail' ? 'Trails & Hiking' : 'General';
+  : category === 'trail' ? 'Trails & Hiking'
+  : category === 'shore-adventures' ? 'Shore Adventures'
+  : 'General';
 
-const categoryColor = category === 'cruise' ? 'bg-ocean-100 text-ocean-700' : 'bg-trail-100 text-trail-700';
+const categoryColor = category === 'cruise'
+  ? 'bg-ocean-100 text-ocean-700'
+  : category === 'shore-adventures'
+  ? 'bg-sand-100 text-sand-700'
+  : 'bg-trail-100 text-trail-700';
 ---
 
 <BaseLayout title={title} description={description} image={heroImage}>

@@ -9,7 +9,7 @@ const posts = defineCollection({
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),
-    category: z.enum(['cruise', 'trail', 'general']),
+    category: z.enum(['cruise', 'trail', 'shore-adventures', 'general']),
     cruiseLine: z.enum(['disney', 'royal-caribbean', 'other']).optional(),
     tags: z.array(z.string()).default([]),
     author: z.string().default('Bailey Miller'),
